@@ -1,0 +1,7 @@
+
+Introduction:- This is a normal Weather API, the motive to build this API is to 
+               retrieve the current weather forecast data for a specified location 
+               from an open API source, and to display it on a webpage.     
+
+Created using ? :- Nodejs, Expressjs.
+                   Dependency used dotenv.
